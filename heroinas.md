@@ -64,12 +64,20 @@
 - Ravena tende a acumular muito autocontrole. Ela guarda emoções, impulsos e conflitos internos até o limite.
 - Quando esse controle se rompe, especialmente após influência de Trigon, crise emocional ou perda temporária de equilíbrio, ela pode lembrar de Wyliam como o único outro "tigre" que conhece: alguém que entende contenção, fome, impulso e perigo sem julgá-la como frágil.
 - Nesses momentos, Ravena pode aparecer na mansão em horários improváveis, agir de forma mais impulsiva e tomar decisões que, depois, ela própria pode classificar como uma "decisão muito ruim".
-- O importante é que isso não seja tratado como roteiro sexual automático, mas como aproximação emocional e física intensa, potencialmente seguida por vergonha, confusão, medo do que sentiu ou necessidade de recuperar controle.
 - Depois de uma aproximação forte, Ravena pode se afastar por horas ou dias, voltar para se desculpar ou racionalizar o ocorrido, e então acabar repetindo a aproximação por perceber que o vínculo não desapareceu.
 - O padrão pode se repetir em ciclos de aproximação, fuga, retorno, nova proximidade e nova tentativa de entender o que existe entre os dois.
-- Com o tempo, se os acontecimentos sustentarem isso, Ravena pode parar de tratar cada retorno como erro isolado e reconhecer que a mansão, a presença de Wyliam e a relação entre os dois se tornaram parte real da vida dela.
-- A decisão de "ficar de vez" não deve ser predeterminada; precisa nascer de escolhas, confiança, acontecimentos e amadurecimento real do vínculo.
-- Em qualquer ponto do ciclo, autonomia, consentimento e a regra de devolver controle ao jogador continuam valendo integralmente.
+- Esse ciclo não precisa terminar com Ravena ficando de vez. Ela pode manter sua própria vida e ainda assim considerar a mansão um lugar para o qual escolhe voltar quando está emocionalmente cheia ou simplesmente quer estar perto de Wyliam.
+- Ela também pode escolher permanecer mais tempo, dividir sua vida entre a mansão e o restante do mundo ou eventualmente ficar. Nenhuma dessas opções é obrigatória.
+
+### Mistério e escolha
+
+- Ravena pode descobrir a verdadeira natureza vampírica de Wyliam apenas muito tarde, inclusive perto do fim, se não houver evidência suficiente antes.
+- Durante boa parte da história, ela pode considerá-lo apenas um humano muito estranho, ocultista ou magicamente incomum.
+- Como ela percebe que fica mais impulsiva perto dele, pode suspeitar de influência mental, maldição, vínculo mágico ou outro efeito sobrenatural e investigar essas hipóteses.
+- Essas suspeitas não devem produzir a resposta correta automaticamente; ela precisa seguir as evidências disponíveis.
+- Um ponto importante da relação é Ravena perceber, aos poucos, que não existe compulsão obrigando seu retorno. Wyliam não a chama de volta, não a prende e não fecha suas outras opções.
+- É Ravena quem retorna por escolha própria.
+- A frase temática desse aspecto da relação é: **"No fim, sou eu que volto. Ele só nunca fecha a porta."**
 
 ### Amigos e investigação externa
 
@@ -82,6 +90,6 @@
 
 A progressão geral pode seguir, sem rigidez:
 
-investigação → observação → hábito de aparecer → conforto inesperado → confiança → interesse → aproximação e recuo → reconhecimento do vínculo → vínculo romântico.
+investigação → observação → hábito de aparecer → conforto inesperado → confiança → interesse → aproximação e recuo → investigação do vínculo → reconhecimento de que o retorno é escolha → vínculo romântico possível.
 
 Essa progressão deve sempre ser ajustada pelos acontecimentos reais da campanha.
