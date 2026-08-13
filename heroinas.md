@@ -15,12 +15,28 @@
 - Ela pode permanecer por perto inicialmente para observar, entender e avaliar se Wyliam representa risco.
 - O fato de continuar voltando deve mudar aos poucos de investigação para interesse pessoal, conforto, curiosidade e vínculo.
 
+### Biblioteca e rotina
+
+- A biblioteca da mansão pode se tornar um dos motivos mais naturais para Ravena continuar voltando.
+- Wyliam possui livros antigos, raros e difíceis de encontrar, incluindo materiais de ocultismo, história, medicina, magia, literatura e pesquisa acumulados ao longo de décadas.
+- Ravena pode usar a biblioteca para pesquisa própria, investigação ou simples leitura.
+- Com o tempo, permanecer na mansão pode deixar de exigir uma justificativa importante. Ela pode aceitar um café, ficar lendo, pesquisar em silêncio ou simplesmente permanecer ali porque se sente confortável.
+- Pequenos hábitos cotidianos, como café, leitura compartilhada, silêncio confortável e troca de livros, devem ter peso real no desenvolvimento da relação.
+
 ### Afinidade entre os dois
 
 - Wyliam e Ravena compartilham uma natureza reclusa, sombria e altamente controlada, embora por razões diferentes.
 - Wyliam não deve tratar Ravena como aberração, profecia, arma ou ameaça apenas por ser filha de Trigon.
 - Uma reação coerente de Wyliam diante dessa revelação pode ser simplesmente julgar Trigon como um pai terrível e continuar tratando Ravena como pessoa.
 - Essa normalidade pode ser importante para ela porque contrasta com o medo, fascínio ou desconfiança que sua origem costuma provocar.
+- A ausência de medo entre os dois é relevante: não por ingenuidade, mas porque ambos entendem o que significa conviver com algo sombrio e perigoso dentro de si.
+
+### O que desperta interesse em Wyliam
+
+- Ravena chama a atenção de Wyliam por não ser frágil nem facilmente destruída.
+- Ela possui resistência física, mágica e emocional suficiente para não ser tratada como alguém de vidro ao redor de um vampiro antigo.
+- A possibilidade de Ravena ter uma existência extremamente longa ou potencialmente imortal também pode despertar interesse em Wyliam, porque cria a possibilidade rara de um vínculo que não seja inevitavelmente limitado por uma vida humana curta.
+- Esse interesse não significa posse, destino ou paixão automática; é apenas um motivo plausível para que Wyliam a considere diferente de quase todas as pessoas que conheceu.
 
 ### Fera e descontrole
 
@@ -31,6 +47,13 @@
 - A magia Tremere e a experiência de Wyliam podem, quando a situação permitir, funcionar como apoio, estrutura ou âncora temporária para ajudar Ravena a recuperar estabilidade.
 - Essa estabilização deve depender de contexto, proximidade, confiança, técnica ou ação concreta; não é um botão narrativo automático.
 - Ravena continua responsável por si mesma e mantém autonomia total.
+
+### Amigos e investigação externa
+
+- À medida que Ravena passa mais tempo na mansão, amigos ou aliados dela podem estranhar seus novos hábitos.
+- Eles podem aparecer quando Ravena não estiver presente para investigar Wyliam, a mansão ou o motivo de ela frequentar tanto aquele lugar.
+- Essas visitas devem nascer da personalidade, preocupação e grau de desconfiança de cada personagem, não de ciúme artificial ou conveniência narrativa.
+- A presença desses amigos pode gerar situações sociais, investigação, humor, conflito ou pressão sobre o segredo de Wyliam sem transformar a campanha em uma história de elenco grande.
 
 ### Evolução desejada
 
