@@ -62,12 +62,75 @@
 - Tremere são associados a estudiosos, acadêmicos, pesquisadores e perseguidores obstinados de conhecimento.
 - Possuem relação particularmente profunda com sangue e vitae, tratando sangue também como objeto de estudo, controle e prática arcana.
 - A campanha usa essa identidade como referência de personalidade e origem, sem obrigação de seguir a cronologia oficial de *Vampire: The Masquerade*.
-- Poderes específicos serão definidos separadamente depois das vantagens e desvantagens.
 
 ## Vantagens
 
-- A definir antes dos poderes.
+- Corpo vampírico muito superior ao humano comum.
+- Força, velocidade, reflexos e resistência sobrenaturais.
+- Recuperação e tolerância a ferimentos superiores às de um humano.
+- Experiência acumulada ao longo de aproximadamente um século.
+- Grande conhecimento sobre sangue, ocultismo e fenômenos sobrenaturais.
 
 ## Poderes
 
-- A definir depois das vantagens e desvantagens.
+### 1. Capacidades físicas vampíricas
+
+- Força sobrenatural muito acima da humana.
+- Velocidade e reflexos sobrenaturais.
+- Resistência física e capacidade de continuar agindo após ferimentos que derrubariam uma pessoa comum.
+- Essas capacidades fazem parte de sua natureza vampírica e não precisam ser tratadas como feitiços separados.
+
+### 2. Metamorfose
+
+Wyliam pode assumir formas vampíricas clássicas:
+
+- morcego;
+- lobo;
+- névoa.
+
+Cada forma conserva vantagens e limitações coerentes com sua natureza.
+
+### 3. Taumaturgia de sangue
+
+- O sangue é a principal expressão arcana e ofensiva de Wyliam como Tremere.
+- Ele pode manipular sangue próprio ou disponível para produzir efeitos de combate, defesa, ritual, marcação, rastreamento e controle arcano.
+- O foco da magia deve permanecer em sangue e ocultismo, não em uma coleção genérica de poderes elementais.
+- A taumaturgia de sangue pode ser usada de forma criativa quando houver sangue, vínculo ritualístico ou condição narrativa adequada.
+
+### 4. Análise de sangue
+
+Ao examinar sangue, Wyliam pode obter informações sobrenaturais de acordo com a qualidade e quantidade da amostra.
+
+Pode perceber, entre outras coisas:
+
+- espécie ou natureza aproximada do ser;
+- estado físico geral;
+- doenças, alterações ou toxinas relevantes;
+- presença de magia ou influência sobrenatural;
+- diferenças incomuns na composição;
+- possíveis vínculos de parentesco ou origem quando a comparação fizer sentido;
+- pistas sobre condição ou alterações recentes.
+
+A análise não produz conhecimento sem relação plausível com aquilo que o sangue poderia revelar.
+
+### 5. Percepção sobrenatural
+
+- Pode perceber auras ou impressões sobrenaturais de pessoas, criaturas, objetos e lugares.
+- Pode notar presença mágica, natureza emocional intensa, corrupção, influência sobrenatural ou outras anomalias quando forem perceptíveis por esse sentido.
+- Pode ampliar seus sentidos e perceber algo distante quando houver condição plausível de conexão, concentração ou foco.
+- Percepção distante não equivale a onisciência.
+
+### 6. Influência mental limitada
+
+- Wyliam possui pouca especialização em controle mental.
+- No máximo, consegue usar sugestão simples sobre uma mente fraca, vulnerável, distraída ou pouco resistente.
+- A sugestão deve ser minimamente aceitável para o alvo e não funciona como controle absoluto da personalidade.
+- Mentes fortes, treinadas, sobrenaturais ou desconfiadas podem resistir ou perceber a tentativa.
+- Ele não possui como padrão poderes de apagar memórias, reescrever personalidade ou dominar completamente alguém.
+
+## Diretriz de uso dos poderes
+
+- Os poderes devem ser tratados de forma narrativa e coerente, não como uma lista rígida de golpes.
+- Wyliam pode combinar capacidades quando a situação permitir.
+- O narrador deve lembrar que ele é um vampiro antigo e poderoso, sem esquecer suas capacidades artificialmente para criar dificuldade.
+- Poder não elimina surpresa, investigação, consequências sociais, magia adversária, relações ou limitações da própria situação.
