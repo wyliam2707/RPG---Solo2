@@ -58,4 +58,16 @@ A campanha pode sair da mansão quando a história justificar, mas ela permanece
 
 ## Desenvolvimentos
 
-Esta seção será atualizada somente quando acontecimentos da campanha alterarem de forma importante o cenário, a reputação de Wyliam, a segurança da mansão ou o segredo sobre sua natureza vampírica.
+### Fim do Capítulo 1
+
+- Ravena chegou à mansão durante uma tarde chuvosa procurando um livro antigo relacionado a Trigon.
+- Wyliam permitiu que ela estudasse o livro dentro da biblioteca, com a condição de que o volume não saísse da casa.
+- Ravena permaneceu na mansão até depois do anoitecer para continuar a leitura.
+- O livro está guardado em um baú trancado na biblioteca e pertence à coleção antiga de Wyliam.
+- Durante a leitura, o conteúdo relacionado a Trigon provocou uma reação sobrenatural/emocional perceptível em Ravena.
+- Wyliam ativou discretamente runas de sangue distribuídas pela mansão para estabilizar o ambiente e reduzir a pressão, sem revelar a intervenção.
+- Ravena percebeu que havia algo sobrenatural na estrutura da casa e tentou examiná-lo. Wyliam ocultou a marca antes que ela conseguisse identificar sua natureza.
+- Ravena agora sabe que há alguma anomalia mágica na mansão, mas não sabe que se trata de taumaturgia de sangue nem conhece a natureza vampírica de Wyliam.
+- Wyliam informou casualmente onde fica seu quarto: próxima escada à direita, última porta do corredor. As portas da casa em geral não são mantidas trancadas por hábito.
+- O capítulo terminou com Wyliam se retirando para o quarto e Ravena permanecendo na biblioteca com o livro.
+- Situação exata para retomada: **noite na mansão; Wyliam saiu da biblioteca após desejar boa noite; Ravena ficou sozinha lendo e pesquisando.**
