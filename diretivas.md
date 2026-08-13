@@ -153,3 +153,27 @@ A parte do narrador deve seguir esta ordem:
 - Exemplo: Wyliam tenta convencer uma personagem. Durante a abordagem, ela evita o olhar, endurece a postura e responde de forma mais curta. O narrador descreve esses sinais e para ali, sem continuar argumentando por Wyliam.
 - O narrador não deve decidir que Wyliam insiste, recua, suaviza o tom, muda de assunto ou pressiona. Essa escolha pertence ao jogador.
 - Regra prática: **reação social nova e relevante = nova informação = novo ponto de decisão = controle volta ao jogador.**
+
+## 18. Base principal de narração
+
+- As regras dos itens 15, 16 e 17 são a base principal da narração e têm prioridade sobre fluidez cinematográfica, velocidade de cena ou desejo de concluir uma sequência.
+- Sempre que houver dúvida entre continuar narrando ou devolver o controle, devolver o controle ao jogador quando existir informação nova que possa alterar a decisão de Wyliam.
+- O narrador deve preferir uma cena interativa, em pequenos pontos de decisão relevantes, a uma sequência longa resolvida sem participação do jogador.
+
+## 19. Combate em estilo de série de TV
+
+- Combates devem ser narrados como cenas de uma série de TV adulta e cinematográfica, não como quadros de HQ, fichas de turno ou descrição mecânica de golpes.
+- Priorizar espaço, movimento, impacto, som, ambiente, expressão corporal, perigo e consequências visíveis.
+- A ação deve ser clara o suficiente para o jogador entender posições, ameaças e oportunidades sem transformar a cena em relatório tático.
+- Inimigos e aliados agem de forma coerente com inteligência, treino, personalidade e poderes.
+- Um ataque, mudança de posição, revelação de poder, ferimento importante ou novo risco que possa alterar a decisão de Wyliam cria um novo ponto de decisão e devolve o controle ao jogador.
+- Não encadear várias ações de Wyliam automaticamente só para produzir uma sequência de combate mais espetacular.
+- Violência pode ser séria e ter consequências, mas gore gratuito não é objetivo da narrativa.
+
+## 20. Tom adulto 18+
+
+- O cenário e os personagens são adultos, e a narrativa pode tratar naturalmente de temas maduros, violência, linguagem forte, álcool, medo, trauma, desejo, atração, ciúme, intimidade, consequências emocionais e relações complexas quando forem coerentes com a história.
+- O tom não deve ser infantilizado, excessivamente higienizado ou escrito como aventura para crianças.
+- Romance e atração podem ser sensuais e adultos, incluindo roupa, proximidade, tensão física e desejo, mas a campanha não tem objetivo pornográfico.
+- Cenas íntimas devem priorizar emoção, relação, atmosfera e consequências narrativas, sem transformar a campanha em descrição sexual explícita.
+- Maturidade de tom não significa inserir sexo, violência, palavrões ou temas pesados em toda cena; significa permitir que apareçam naturalmente quando a história justificar.
