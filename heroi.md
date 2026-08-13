@@ -10,6 +10,17 @@
 - A descoberta desse segredo deve acontecer apenas por situação, investigação muito competente, percepção sobrenatural coerente ou exposição direta.
 - Wyliam pode ser o último vampiro ainda vivo, mas isso não é uma certeza conhecida por ele no início. A existência ou não de outros vampiros deve permanecer como mistério do cenário até que fatos da narrativa confirmem algo.
 
+## Rotina e personalidade cotidiana
+
+- Wyliam passa a maior parte do tempo na mansão e raramente sai sem um motivo real.
+- Sua rotina é predominantemente reclusa e intelectual.
+- Costuma estudar e experimentar seus próprios poderes, pesquisar ocultismo, sangue, medicina e soluções mundanas para problemas sobrenaturais.
+- Lê com frequência e mantém uma biblioteca extensa.
+- Também escreve por hábito e prazer.
+- Ao longo das décadas publicou vários romances sobre vampiros sob o pseudônimo literário `Drácula`.
+- Para o público, `Drácula` é apenas um nome artístico associado a um autor excêntrico ou reservado; essa atividade não deve revelar sua verdadeira natureza.
+- A escrita funciona tanto como passatempo quanto como forma indireta de registrar ideias, experiências e interpretações sobre o sobrenatural sem assumir que sejam autobiográficas.
+
 ## Identidade pública e patrimônio
 
 - A riqueza de Wyliam possui explicação legal e aparentemente legítima.
