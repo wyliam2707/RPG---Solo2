@@ -107,7 +107,7 @@
 ### Segundo retorno possível
 
 - Depois de alguns dias afastada, Ravena pode voltar com a intenção sincera de se desculpar com Wyliam, ainda acreditando que ele é apenas um mortal incomum e que ela talvez tenha ido longe demais na noite anterior.
-- Durante essa conversa, ela pode captar pela leitura emocional que Wyliam não está traumatizado nem arrependido; pelo contrário, a impressão de que ele gostou muito da experiência pode atravessar suas defesas antes que ela esteja preparada para lidarar com isso.
+- Durante essa conversa, ela pode captar pela leitura emocional que Wyliam não está traumatizado nem arrependido; pelo contrário, a impressão de que ele gostou muito da experiência pode atravessar suas defesas antes que ela esteja preparada para lidar com isso.
 - Essa percepção pode desestabilizá-la de novo, não por controle externo, mas porque confirma que a aproximação foi recíproca e porque ela própria continua atraída.
 - Sem perceber de imediato, Ravena pode diminuir a distância física, observar Wyliam por tempo demais, reparar em detalhes do rosto e do corpo e deixar a conversa formal virar tensão íntima.
 - Wyliam pode reagir a essa aproximação de maneira coerente, e Ravena pode perceber essa reação rápido demais para continuar fingindo que a visita é apenas um pedido de desculpas.
@@ -142,6 +142,25 @@
 - Eles podem aparecer quando Ravena não estiver presente para investigar Wyliam, a mansão ou o motivo de ela frequentar tanto aquele lugar.
 - Essas visitas devem nascer da personalidade, preocupação e grau de desconfiança de cada personagem, não de ciúme artificial ou conveniência narrativa.
 - A presença desses amigos pode gerar situações sociais, investigação, humor, conflito ou pressão sobre o segredo de Wyliam sem transformar a campanha em uma história de elenco grande.
+
+### Liberdade do encontro
+
+- O motivo exato do primeiro encontro, o caminho até a mansão e o elemento que desperta a investigação de Ravena ficam a cargo do narrador.
+- Livro sobre Trigon, artefato, aura estranha, pesquisa ou outros exemplos anteriores são possibilidades, não uma sequência obrigatória.
+- O narrador deve escolher uma abertura simples e coerente que coloque Ravena e Wyliam frente a frente rapidamente, sem gastar o one-shot com preparação excessiva.
+- O que precisa ser preservado é a explosão de reconhecimento entre os dois, a intensidade, a discussão, a curiosidade e a dificuldade crescente de ignorarem a presença um do outro.
+- Poucos personagens devem ser usados. A história deve permanecer concentrada principalmente na vida privada dos dois e nas consequências do vínculo.
+
+### Registro emocional vivo de Ravena
+
+- A ficha de Ravena deve registrar o estado emocional dela durante a campanha e ser atualizada quando acontecimentos concretos mudarem a maneira como ela vê Wyliam ou a relação.
+- Não registrar apenas fatos externos. Registrar também a interpretação atual de Ravena, suas dúvidas, racionalizações, desejos, medos, vergonha, curiosidade, afeto e aquilo que ela ainda não consegue admitir.
+- Esses sentimentos não são uma escada obrigatória e podem avançar, recuar, contradizer-se ou coexistir.
+- Exemplos de perguntas internas que podem marcar etapas reais do vínculo: **"Por que eu volto?" → "Por que eu não resisto?" → "Por que eu gosto?"**.
+- Mais adiante, se os acontecimentos sustentarem isso, a percepção pode deixar de ser apenas sobre desejo e passar a incluir ternura, pertencimento e visão de futuro.
+- Um exemplo possível desse amadurecimento é Ravena olhar para Wyliam em uma situação íntima ou familiar e pensar algo simples e inesperadamente afetuoso, como: **"Ele fica tão lindo com ela nos braços."**
+- Esse tipo de mudança deve surgir de fatos vividos durante o jogo; nunca deve ser colocado antecipadamente só para cumprir um roteiro romântico.
+- O registro emocional serve para manter continuidade: a Ravena de uma cena posterior deve carregar o que sentiu, descobriu, negou, desejou ou temeu nas cenas anteriores.
 
 ### Evolução desejada
 
