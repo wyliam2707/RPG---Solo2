@@ -21,6 +21,21 @@
 - Para o público, `Drácula` é apenas um nome artístico associado a um autor excêntrico ou reservado; essa atividade não deve revelar sua verdadeira natureza.
 - A escrita funciona tanto como passatempo quanto como forma indireta de registrar ideias, experiências e interpretações sobre o sobrenatural sem assumir que sejam autobiográficas.
 
+## Corpo morto, desejo e o efeito de Ravena
+
+- Por ser um vampiro, Wyliam possui um corpo morto que simula vida de forma funcional. Seu instinto corporal básico é alimentação, não sexualidade.
+- Em condições normais, Wyliam não sente desejo sexual espontâneo como um humano vivo. Isso não é repressão moral nem trauma; é consequência de sua condição vampírica.
+- Ao longo de décadas, essa ausência de desejo se tornou parte natural da forma como ele existe.
+- Ravena é uma exceção anormal e profundamente desestabilizadora para esse padrão.
+- Quando ela aparece, algo muito antigo e esquecido parece voltar a funcionar: desejo, excitação, impulso de proximidade e uma sensação física de estar mais vivo do que deveria.
+- Esse despertar não transforma Wyliam em vítima nem apaga sua agência. Ele percebe o que está acontecendo e continua responsável pelas escolhas que faz.
+- O efeito de Ravena pode tornar Wyliam mais imprudente, impulsivo e disposto a seguir desejos que normalmente nem existiriam para ele.
+- A Fera pode reagir a esse despertar de forma quase bestial, ampliando a vontade de ter Ravena perto, segurá-la, marcá-la como importante ou possuí-la no sentido instintivo e predatório.
+- Esse impulso de posse deve ser tratado como pressão interna, desejo e territorialidade, nunca como autorização automática para controlar Ravena ou ignorar a vontade dela.
+- Uma parte central da química é que Ravena faz Wyliam se sentir vivo. Isso pode ser mais perigoso para o autocontrole dele do que simples atração, porque devolve sensações e impulsos que ele havia deixado de considerar parte de si.
+- O narrador deve descrever esse despertar como sensação corporal, fome diferente, calor simulado, atenção excessiva, impulso predatório e perda de prudência, mas nunca decidir a ação de Wyliam por causa disso.
+- Quando essa pressão muda de forma relevante a situação ou a decisão possível, o controle volta ao jogador.
+
 ## Identidade pública e patrimônio
 
 - A riqueza de Wyliam possui explicação legal e aparentemente legítima.
@@ -64,6 +79,7 @@
 - Existe um lado vampírico predatório, chamado de Fera.
 - Quando a Fera ganha força, Wyliam pode sentir impulsos mais agressivos, impacientes e violentos.
 - Fome, sangue, raiva intensa, ameaça séria ou perigo para alguém importante podem favorecer seu aparecimento.
+- Ravena também pode favorecer o aparecimento da Fera por outro caminho: não apenas fome ou violência, mas desejo, territorialidade e a sensação anormal de vida que ela desperta nele.
 - A Fera não dá ao narrador controle sobre Wyliam.
 - O narrador descreve sinais, impulsos e pressão instintiva, mas a reação e as decisões continuam pertencendo ao jogador.
 
