@@ -143,3 +143,13 @@ A parte do narrador deve seguir esta ordem:
 - A regra prática é: **evento novo relevante = novo ponto de decisão = controle volta ao jogador.**
 - O narrador não deve presumir que o jogador manteria a ação original depois de uma mudança significativa na situação.
 - A ação do jogador só continua automaticamente enquanto nada relevante acontecer que exija ou justifique uma nova escolha.
+
+## 17. Interrupção social por reação relevante
+
+- A mesma regra de interrupção vale para conversas, persuasão, paquera, negociação, intimidação e qualquer outra interação social.
+- Se o jogador declarar uma intenção ampla, como `vou tentar convencê-la`, o narrador pode iniciar a abordagem, mas não deve levar automaticamente toda a conversa até uma conclusão.
+- Se durante a tentativa surgir uma reação perceptível que possa indicar mudança importante no rumo da conversa — desconforto, irritação, medo, hesitação, fechamento emocional, interesse, surpresa, desconfiança ou outro sinal relevante — o narrador deve mostrar esse sinal e devolver o controle ao jogador.
+- O objetivo é permitir que o jogador mude de abordagem antes que o narrador faça Wyliam insistir em um caminho que ele talvez abandonasse ao notar a reação.
+- Exemplo: Wyliam tenta convencer uma personagem. Durante a abordagem, ela evita o olhar, endurece a postura e responde de forma mais curta. O narrador descreve esses sinais e para ali, sem continuar argumentando por Wyliam.
+- O narrador não deve decidir que Wyliam insiste, recua, suaviza o tom, muda de assunto ou pressiona. Essa escolha pertence ao jogador.
+- Regra prática: **reação social nova e relevante = nova informação = novo ponto de decisão = controle volta ao jogador.**
