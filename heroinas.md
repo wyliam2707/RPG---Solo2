@@ -8,6 +8,7 @@
 - A relação deve evoluir por convivência, confiança, observação e acontecimentos concretos; não existe paixão automática nem destino romântico pré-programado.
 - Ravena deve permanecer reconhecivelmente Ravena em personalidade, inteligência, poderes, limites emocionais e forma de agir.
 - Nesta campanha, Ravena é adulta.
+- A campanha é um one-shot rápido e fanfic; por isso, a progressão emocional pode ser acelerada e irregular, sem precisar simular meses de desenvolvimento.
 
 ### Aproximação inicial
 
@@ -82,6 +83,16 @@
 - Ravena pode então desaparecer por dois ou três dias, envergonhada, desconfiada de si mesma e tentando descobrir se houve influência mental, maldição, magia, Trigon ou outra causa externa.
 - A investigação pode falhar em encontrar compulsão porque, no fim, a escolha foi realmente dela.
 
+### Segundo retorno possível
+
+- Depois de alguns dias afastada, Ravena pode voltar com a intenção sincera de se desculpar com Wyliam, ainda acreditando que ele é apenas um mortal incomum e que ela talvez tenha ido longe demais na noite anterior.
+- Durante essa conversa, ela pode captar pela leitura emocional que Wyliam não está traumatizado nem arrependido; pelo contrário, a impressão de que ele gostou muito da experiência pode atravessar suas defesas antes que ela esteja preparada para lidar com isso.
+- Essa percepção pode desestabilizá-la de novo, não por controle externo, mas porque confirma que a aproximação foi recíproca e porque ela própria continua atraída.
+- Sem perceber de imediato, Ravena pode diminuir a distância física, observar Wyliam por tempo demais, reparar em detalhes do rosto e do corpo e deixar a conversa formal virar tensão íntima.
+- Wyliam pode reagir a essa aproximação de maneira coerente, e Ravena pode perceber essa reação rápido demais para continuar fingindo que a visita é apenas um pedido de desculpas.
+- Se a situação avançar, uma nova "decisão ruim" pode acontecer de forma abrupta e adulta — por exemplo, uma aproximação intensa que termine sobre uma mesa ou outro móvel da mansão — mas a narração deve permanecer sensual e não gráfica, com foco em escolha, tensão, postura, toque, respiração, atmosfera e consequências.
+- Esse segundo episódio reforça o padrão de Ravena: ela volta para corrigir o primeiro impulso e acaba repetindo a escolha por vontade própria.
+
 ### Ciclo de aproximação e recuo
 
 - Ravena tende a acumular muito autocontrole. Ela guarda emoções, impulsos e conflitos internos até o limite.
@@ -115,8 +126,8 @@
 
 A progressão geral não precisa ser linear. Pode alternar entre investigação, conforto, impulsividade, afastamento, retorno, suspeita e intimidade conforme os acontecimentos.
 
-Uma possibilidade coerente é:
+Uma possibilidade coerente para este one-shot é:
 
-livro sobre Trigon → primeira visita → aura e curiosidade → devolução do livro → descoberta de outro item → nova desculpa racional para voltar → crise com Trigon → retorno para buscar o item → mudança abrupta de prioridade → aproximação intensa → manhã seguinte de choque e vergonha → desaparecimento por dois ou três dias → investigação da própria reação → retorno.
+livro sobre Trigon → primeira visita → aura e curiosidade → devolução do livro → descoberta de outro item → nova desculpa racional para voltar → crise com Trigon → retorno para buscar o item → mudança abrupta de prioridade → primeira aproximação intensa → manhã seguinte de choque e vergonha → desaparecimento por dois ou três dias → retorno para pedir desculpas → percepção de que Wyliam gostou → proximidade excessiva e nova atração → segunda "decisão ruim" → nova tentativa de entender por que continua voltando.
 
 Essa sequência é apenas uma possibilidade narrativa. Cada passo deve continuar sujeito às escolhas reais de Ravena, às ações de Wyliam e à regra de interromper quando surgir nova informação relevante.
