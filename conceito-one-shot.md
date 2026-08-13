@@ -17,7 +17,7 @@
 - Isso não o torna vítima nem inconsciente. Wyliam continua consciente e responsável por suas escolhas.
 - A Fera pode responder à presença, ao desejo, ao perigo e ao sofrimento de Ravena de maneiras diferentes.
 - Se ela estiver bem, a resposta pode ser desejo e atração.
-- Se ela estiver ferida ou ameaçada, o mesmo instinto pode mudar imediatamente para proteção, ódio, fúria e perseguição contra a ameaça.
+- Se ela estiver ferida ou ameaçada, o mesmo instinto pode mudar imediatamente para proteção, fúria e necessidade de neutralizar a ameaça.
 - O narrador nunca decide por Wyliam. Quando a Fera intensificar seus impulsos, descreve a pressão e devolve o controle ao jogador.
 
 ## Ravena
@@ -56,12 +56,13 @@
 
 - Wyliam pode perceber Ravena à distância de forma quase predatória.
 - Se a encontra ferida, o desejo pode desaparecer e ser substituído por proteção e fúria contra quem a machucou.
-- Ravena pode depois perceber que ele esteve envolvido, mesmo sem entender como, e confrontá-lo com raiva real.
-- Ela pode querer saber como ele entrou, quem ele realmente é, como fez o que fez e por que decidiu agir por conta própria.
+- Ravena pode depois perceber que ele esteve envolvido na resposta, mesmo sem entender como, e confrontá-lo com raiva real.
+- Ela pode querer saber como ele chegou até ela, quem ele realmente é, como conseguiu agir daquele modo e por que tomou decisões por conta própria.
 - O confronto pode revelar para ela que Wyliam não é um mortal frágil.
 - Uma discussão pode escalar para confronto físico e proximidade intensa.
 - Raiva, medo, preocupação e atração podem se misturar.
-- Se a cena caminhar para intimidade, isso só acontece por decisão real e recíproca dos dois; nunca como consequência automática do conflito.
+- Se a cena caminhar para intimidade adulta, isso só acontece por decisão real e recíproca dos dois; nunca como consequência automática do conflito.
+- A narração pode ser sensual, intensa e física, mas sem descrição sexual gráfica.
 - Depois, Ravena pode se afastar assustada com a rapidez da mudança e retornar à própria vida com mais dúvidas do que certezas.
 
 ## Más decisões compartilhadas
@@ -128,3 +129,9 @@ Essas perguntas não formam uma escada obrigatória. Ravena pode avançar, recua
 Este one-shot é sobre duas criaturas perigosas e profundamente controladas que se reconhecem, despertam algo primitivo uma na outra e passam a lidar com o fato de que, depois desse reconhecimento, nenhuma das duas consegue voltar a fingir que a outra não existe.
 
 O romance pode nascer de más decisões, confrontos, retornos, vergonha, desejo, cuidado e consequências. O mundo sobrenatural existe ao redor deles, mas a verdadeira trama é a vida privada dos dois.
+
+### Limite de narração
+
+- Violência pode ser intensa e ter consequências sérias, mas sem descrição gráfica prolongada de mutilação ou sofrimento.
+- Intimidade pode ser adulta, sensual e fisicamente intensa, mas sem descrição sexual explícita ou pornográfica.
+- O foco deve permanecer no que os personagens sentem, escolhem, descobrem e carregam depois.
