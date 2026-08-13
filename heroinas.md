@@ -59,6 +59,18 @@
 - Isso não elimina autonomia, consentimento ou controle do jogador. Qualquer mudança relevante de atitude de Ravena ou pressão da Fera cria novo ponto de decisão e devolve o controle a Wyliam.
 - A intensificação não significa que uma cena precise se tornar sexual; ela pode resultar em confronto, afastamento, contenção, aproximação, humor tenso ou intimidade, conforme o contexto e as escolhas reais dos dois.
 
+### Ciclo de aproximação e recuo
+
+- Ravena tende a acumular muito autocontrole. Ela guarda emoções, impulsos e conflitos internos até o limite.
+- Quando esse controle se rompe, especialmente após influência de Trigon, crise emocional ou perda temporária de equilíbrio, ela pode lembrar de Wyliam como o único outro "tigre" que conhece: alguém que entende contenção, fome, impulso e perigo sem julgá-la como frágil.
+- Nesses momentos, Ravena pode aparecer na mansão em horários improváveis, agir de forma mais impulsiva e tomar decisões que, depois, ela própria pode classificar como uma "decisão muito ruim".
+- O importante é que isso não seja tratado como roteiro sexual automático, mas como aproximação emocional e física intensa, potencialmente seguida por vergonha, confusão, medo do que sentiu ou necessidade de recuperar controle.
+- Depois de uma aproximação forte, Ravena pode se afastar por horas ou dias, voltar para se desculpar ou racionalizar o ocorrido, e então acabar repetindo a aproximação por perceber que o vínculo não desapareceu.
+- O padrão pode se repetir em ciclos de aproximação, fuga, retorno, nova proximidade e nova tentativa de entender o que existe entre os dois.
+- Com o tempo, se os acontecimentos sustentarem isso, Ravena pode parar de tratar cada retorno como erro isolado e reconhecer que a mansão, a presença de Wyliam e a relação entre os dois se tornaram parte real da vida dela.
+- A decisão de "ficar de vez" não deve ser predeterminada; precisa nascer de escolhas, confiança, acontecimentos e amadurecimento real do vínculo.
+- Em qualquer ponto do ciclo, autonomia, consentimento e a regra de devolver controle ao jogador continuam valendo integralmente.
+
 ### Amigos e investigação externa
 
 - À medida que Ravena passa mais tempo na mansão, amigos ou aliados dela podem estranhar seus novos hábitos.
@@ -70,6 +82,6 @@
 
 A progressão geral pode seguir, sem rigidez:
 
-investigação → observação → hábito de aparecer → conforto inesperado → confiança → interesse → vínculo romântico.
+investigação → observação → hábito de aparecer → conforto inesperado → confiança → interesse → aproximação e recuo → reconhecimento do vínculo → vínculo romântico.
 
 Essa progressão deve sempre ser ajustada pelos acontecimentos reais da campanha.
