@@ -191,6 +191,29 @@
 - Estado dominante: **curiosidade cautelosa + conforto inesperado + suspeita moderada + início de atenção pessoal involuntária.**
 - Pergunta emocional implícita atual: **"Por que eu estou confortável aqui?"**
 
+### Estado emocional atual — fim do Capítulo 2
+
+- Ravena tomou a primeira decisão claramente pessoal de ir até a porta do quarto de Wyliam depois de permanecer sozinha na biblioteca. Ela teve oportunidades de ir embora e não foi.
+- A aproximação entre os dois tornou-se física e íntima por escolha recíproca. Ravena participou ativamente, aproximou-se, puxou Wyliam em alguns momentos e permaneceu durante a noite. Não houve compulsão, perda de consciência ou ausência de consentimento.
+- Na manhã seguinte, o constrangimento existiu, mas Ravena não tratou a noite como erro imposto por outra pessoa. O humor seco voltou rapidamente, e ela permaneceu tempo suficiente para café e conversa.
+- Ravena percebeu vários hábitos estranhos: Wyliam não dormiu, evita luz intensa, não come pela manhã, possui hábitos noturnos e fala do passado de forma incomum. Nenhum desses elementos isoladamente prova vampirismo, mas o conjunto agora chama atenção.
+- O cheiro e a proximidade de Ravena provocam reações visíveis em Wyliam. Ela percebe que ele a fareja e que associa o cheiro dela a “decisões questionáveis”. Isso não a afastou; em algumas situações ela respondeu mantendo ou reduzindo a distância.
+- Depois de alguns dias longe, Ravena retornou por iniciativa própria. O motivo racional era devolver o livro de Trigon e investigar por que a mansão reduz a influência de Trigon, mas o retorno também confirma que ela não quis cortar contato após a primeira noite.
+- Durante a segunda visita, houve outra aproximação íntima consensual na biblioteca. Ravena deu um passo em direção a Wyliam depois de ele deixar claro que interpretaria a aproximação como consentimento para abandonar o bom senso. Ela depois tratou o ocorrido com humor e permaneceu na casa para continuar pesquisando.
+- O padrão já é perceptível para ela: proximidade com Wyliam facilita escolhas que normalmente seriam muito mais filtradas. Ela ainda não sabe se isso é apenas desejo, sensação de segurança, compatibilidade sobrenatural ou outro fator, mas já tem evidência concreta de que continua escolhendo se aproximar.
+- Ravena reconhece a mansão como um lugar em que sua pressão ligada a Trigon é reduzida. Isso torna a casa objetivamente útil para ela, além da atração pessoal por Wyliam.
+- A hipótese de criar um vínculo remoto com a rede da mansão interessa a Ravena porque poderia oferecer estabilização fora dali. Ao mesmo tempo, essa solução exigiria uma conexão duradoura com a casa e possivelmente com quem criou a estrutura.
+- Wyliam ofereceu impulsivamente a possibilidade de Ravena morar na mansão ou até receber a casa. Ravena considerou a proposta rápida demais, mas não descartou a lógica prática de permanecer ou voltar por causa da rede.
+- Ravena confirmou que as runas ocultas são vermelhas, parecem feitas com sangue e funcionam como uma rede de redistribuição/dissipação de pressão mágica e emocional.
+- Ela percebeu que Wyliam conhece detalhes técnicos específicos demais: corrige sequências, entende retornos da rede, sabe onde estão marcas ocultas e prevê comportamentos não explícitos no livro. Isso elevou a suspeita de que ele não é apenas leitor ou morador casual.
+- Ravena descobriu que Wyliam é o autor de diversos romances de vampiro sob o pseudônimo `Drácula`. Essa informação, combinada com seus hábitos e o tema da casa, é estranha demais para ser ignorada, mas ainda pode ser explicada como excentricidade deliberada de escritor.
+- Ravena examinou tinta vermelha vendida como contendo sangue de vampiro Tremere. Uma runa feita com essa tinta reagiu magicamente.
+- Ravena então testou uma runa com o sangue de Wyliam. A reação foi muito mais intensa e eficiente que a da tinta. Ela disse explicitamente que o sangue dele não parece humano comum.
+- Ravena ainda não tem prova conclusiva de que Wyliam seja vampiro. A hipótese vampírica, porém, deixou de ser apenas uma piada possível e passou a competir seriamente com explicações como ocultista, ser sobrenatural não identificado ou humano magicamente alterado.
+- Ela quer um teste de controle com sangue humano comum antes de concluir qualquer coisa.
+- Estado dominante: **atração assumida na prática + conforto crescente + curiosidade científica/oculta + suspeita alta + vontade de continuar voltando + cautela sobre o que Wyliam realmente é.**
+- Pergunta emocional implícita atual: **"Eu continuo voltando porque preciso desta casa... ou porque quero estar perto dele?"**
+
 ### Evolução desejada
 
 A progressão geral não precisa ser linear. Pode alternar entre investigação, conforto, impulsividade, afastamento, retorno, suspeita e intimidade conforme os acontecimentos.
