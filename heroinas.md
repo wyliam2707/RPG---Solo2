@@ -55,6 +55,18 @@
 - A atração inicial pode ser muito física, territorial e primitiva; carinho, confiança e vínculo emocional podem surgir depois, se a história levar nessa direção.
 - Nenhum dos dois precisa considerar essas aproximações uma boa ideia para escolhê-las mesmo assim.
 
+### Repressão emocional e desmoronamento
+
+- Ravena passa grande parte da vida reprimindo emoções e impulsos porque sabe que perder o controle pode ter consequências reais e perigosas.
+- Para ela, autocontrole não é apenas disciplina social; é uma forma de sobrevivência e contenção de algo muito maior.
+- Por isso, ela pode se convencer de que não precisa de certas coisas, não quer certas coisas ou consegue simplesmente ignorá-las enquanto mantiver tudo sob controle.
+- Perto de Wyliam, porém, pode surgir uma sensação rara de que ela não precisa sustentar esse controle o tempo inteiro, seja porque se sente compreendida, porque ele não a teme, porque ele suporta sua intensidade ou porque a presença dele fala com uma parte muito primitiva dela.
+- Quando Ravena, conscientemente ou não, afrouxa essa contenção, a mudança não precisa ser gradual. Pode acontecer como um desmoronamento: uma escolha impulsiva puxa outra, a distância física diminui, justificativas racionais perdem força e ela age antes de reorganizar tudo mentalmente.
+- Ela não fica inconsciente nem deixa de ser responsável por si. O ponto é justamente que continua escolhendo, mas escolhe em um estado muito mais impulsivo, intenso e pouco filtrado do que o normal.
+- Depois, quando recupera o padrão habitual de autocontrole, pode olhar para a sequência inteira e considerá-la inconsequente, questionável, vergonhosa ou simplesmente difícil de conciliar com a imagem que tinha de si mesma.
+- No início da relação, isso pode produzir o ciclo: **contenção → sensação de segurança ou permissão para soltar → desmoronamento de escolhas → consequência → vergonha/confusão → afastamento → retorno**.
+- Com o tempo, a mudança emocional importante não é Ravena deixar de ter controle, mas entender que nem toda entrega é perda de si mesma e que desejar algo não significa automaticamente estar sendo manipulada ou corrompida.
+
 ### O que desperta interesse em Wyliam
 
 - Ravena chama a atenção de Wyliam por não ser frágil nem facilmente destruída.
