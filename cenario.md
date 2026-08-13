@@ -22,6 +22,22 @@ Ninguém deve descobrir isso apenas por conveniência narrativa. A verdade só p
 
 Personagens excepcionalmente observadores, investigativos, mágicos ou sobrenaturais podem perceber sinais estranhos antes dos demais, mas ainda precisam de motivos e evidências coerentes para chegar à conclusão correta.
 
+## A mansão
+
+A mansão é grande o suficiente para comportar quase tudo que Wyliam usa no cotidiano sem precisar sair de casa com frequência.
+
+Ela possui, conforme a necessidade da narrativa, biblioteca, escritórios, salas de leitura e escrita, arquivos, quartos para hóspedes, salas de estar, áreas de pesquisa, espaços de estudo, depósitos e outros cômodos compatíveis com uma residência antiga de grande porte.
+
+Não é necessário definir uma planta completa antecipadamente. Novos ambientes podem ser apresentados quando fizerem sentido, desde que permaneçam coerentes com o tamanho e a história da propriedade.
+
+## Rotina e função narrativa da casa
+
+Wyliam passa a maior parte do tempo na mansão. Sua rotina costuma envolver pesquisa, estudo de seus poderes, leitura, escrita, medicina, assuntos mundanos e outros interesses acumulados ao longo de sua vida.
+
+Apesar do isolamento, não é incomum que pessoas cheguem à propriedade procurando Wyliam por motivos diferentes: informação, conselho, ajuda, um favor, uma conversa, negócios, curiosidade ou algum problema que acabou encontrando o caminho até sua porta.
+
+Isso permite que boa parte da campanha se desenvolva dentro da mansão sem tornar o cenário parado. A casa funciona como residência, refúgio, local de estudo e ponto natural de chegada de novas situações e personagens.
+
 ## Uso do cenário
 
 A mansão será o principal ponto de convivência da história e pode receber visitas, conflitos, aproximações, conversas, situações íntimas e acontecimentos inesperados.
