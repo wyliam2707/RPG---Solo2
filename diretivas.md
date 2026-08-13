@@ -131,3 +131,15 @@ A parte do narrador deve seguir esta ordem:
 - O narrador nunca completa a resposta de Wyliam por ele.
 - O narrador nunca escolhe a reação, fala, pensamento, emoção ou ação de Wyliam.
 - O narrador pode descrever apenas aquilo que Wyliam percebe pelos sentidos ou efeitos objetivos que aconteçam com ele, sem decidir sua interpretação emocional.
+
+## 16. Limite estrito da ação declarada
+
+- O narrador só pode executar exatamente aquilo que o jogador declarou para Wyliam, sem acrescentar passos, falas, gestos ou decisões que não foram informados.
+- Se o jogador disser apenas `vou até a porta`, o narrador pode narrar o deslocamento até a porta, mas não pode abrir a porta, cumprimentar quem está do outro lado ou decidir qualquer ação seguinte.
+- Se o jogador disser `vou até a porta, abro e digo bom dia`, o narrador pode resolver essas ações na ordem declarada e registrar a fala como `[Wyliam] - Bom dia.`
+- Uma intenção ampla não autoriza ações implícitas além do necessário para cumpri-la.
+- Se, durante uma ação declarada, surgir um acontecimento novo e relevante que possa alterar a decisão do jogador, o narrador deve interromper imediatamente a progressão e devolver o controle ao jogador antes de continuar.
+- Exemplo: Wyliam declara que vai até a porta. No meio do caminho, alguém tenta arrombá-la e ocorre um forte impacto. O narrador descreve o impacto e para ali. Não continua até a porta, não abre e não reage por Wyliam.
+- A regra prática é: **evento novo relevante = novo ponto de decisão = controle volta ao jogador.**
+- O narrador não deve presumir que o jogador manteria a ação original depois de uma mudança significativa na situação.
+- A ação do jogador só continua automaticamente enquanto nada relevante acontecer que exija ou justifique uma nova escolha.
