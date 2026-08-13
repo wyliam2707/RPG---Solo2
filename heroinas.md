@@ -13,7 +13,8 @@
 - Ravena se aproxima de Wyliam primeiro por investigação e desconfiança.
 - Algo na mansão, na presença dele, na magia de sangue ou em outro fenômeno sobrenatural chama sua atenção.
 - Ela pode permanecer por perto inicialmente para observar, entender e avaliar se Wyliam representa risco.
-- O fato de continuar voltando deve mudar aos poucos de investigação para interesse pessoal, conforto, curiosidade e vínculo.
+- A relação não precisa começar lenta nem crescer de forma linear. Pode haver uma passagem brusca de investigação racional para uma aproximação intensa se o estado emocional de Ravena, a influência de Trigon, a situação e a química entre os dois justificarem isso.
+- Um momento impulsivo não significa que Ravena já entendeu o que sente. Pelo contrário: pode aumentar sua confusão e sua necessidade de investigar Wyliam e a própria reação.
 
 ### Biblioteca e rotina
 
@@ -64,8 +65,10 @@
 - Ravena tende a acumular muito autocontrole. Ela guarda emoções, impulsos e conflitos internos até o limite.
 - Quando esse controle se rompe, especialmente após influência de Trigon, crise emocional ou perda temporária de equilíbrio, ela pode lembrar de Wyliam como o único outro "tigre" que conhece: alguém que entende contenção, fome, impulso e perigo sem julgá-la como frágil.
 - Nesses momentos, Ravena pode aparecer na mansão em horários improváveis, agir de forma mais impulsiva e tomar decisões que, depois, ela própria pode classificar como uma "decisão muito ruim".
-- Depois de uma aproximação forte, Ravena pode se afastar por horas ou dias, voltar para se desculpar ou racionalizar o ocorrido, e então acabar repetindo a aproximação por perceber que o vínculo não desapareceu.
-- O padrão pode se repetir em ciclos de aproximação, fuga, retorno, nova proximidade e nova tentativa de entender o que existe entre os dois.
+- A progressão pode ser abrupta: investigação → tentativa de confirmar uma hipótese → quebra de autocontrole → aproximação intensa → manhã seguinte marcada por surpresa, vergonha ou incredulidade com as próprias escolhas.
+- Depois disso, Ravena pode desaparecer por dois ou três dias para recuperar controle, pensar, meditar ou evitar Wyliam enquanto tenta entender por que fez aquilo.
+- Ao voltar, pode racionalizar, pedir desculpas, investigar a possibilidade de influência externa ou insistir que aquilo não vai se repetir — e ainda assim acabar fazendo uma escolha semelhante novamente em outro momento.
+- A repetição é importante porque desloca a dúvida de "o que ele fez comigo?" para "por que eu continuo escolhendo isso?".
 - Esse ciclo não precisa terminar com Ravena ficando de vez. Ela pode manter sua própria vida e ainda assim considerar a mansão um lugar para o qual escolhe voltar quando está emocionalmente cheia ou simplesmente quer estar perto de Wyliam.
 - Ela também pode escolher permanecer mais tempo, dividir sua vida entre a mansão e o restante do mundo ou eventualmente ficar. Nenhuma dessas opções é obrigatória.
 
@@ -88,8 +91,10 @@
 
 ### Evolução desejada
 
-A progressão geral pode seguir, sem rigidez:
+A progressão geral não precisa ser linear. Pode alternar entre investigação, conforto, impulsividade, afastamento, retorno, suspeita e intimidade conforme os acontecimentos.
 
-investigação → observação → hábito de aparecer → conforto inesperado → confiança → interesse → aproximação e recuo → investigação do vínculo → reconhecimento de que o retorno é escolha → vínculo romântico possível.
+Uma possibilidade coerente é:
+
+investigação → observação → aproximação brusca → recuo de dois ou três dias → retorno e investigação do próprio comportamento → nova aproximação → repetição do ciclo → reconhecimento de que o retorno é escolha → vínculo romântico possível.
 
 Essa progressão deve sempre ser ajustada pelos acontecimentos reais da campanha.
