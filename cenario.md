@@ -70,4 +70,24 @@ A campanha pode sair da mansão quando a história justificar, mas ela permanece
 - Ravena agora sabe que há alguma anomalia mágica na mansão, mas não sabe que se trata de taumaturgia de sangue nem conhece a natureza vampírica de Wyliam.
 - Wyliam informou casualmente onde fica seu quarto: próxima escada à direita, última porta do corredor. As portas da casa em geral não são mantidas trancadas por hábito.
 - O capítulo terminou com Wyliam se retirando para o quarto e Ravena permanecendo na biblioteca com o livro.
-- Situação exata para retomada: **noite na mansão; Wyliam saiu da biblioteca após desejar boa noite; Ravena ficou sozinha lendo e pesquisando.**
+
+### Fim do Capítulo 2
+
+- Na mesma noite do Capítulo 1, Wyliam observou discretamente Ravena pelas runas da mansão. Ela deixou a biblioteca e foi até a porta do quarto dele.
+- Os dois tiveram uma aproximação consensual e impulsiva, trataram a situação como uma sequência de “decisões questionáveis” e passaram a noite juntos. A narração preservou intimidade adulta sem descrição explícita.
+- Na manhã seguinte, Ravena permaneceu na mansão, tomou café e percebeu mais alguns hábitos estranhos de Wyliam: ele não dormiu durante a noite, não comeu pela manhã e evita luz intensa, embora nenhuma dessas pistas isoladamente prove vampirismo.
+- Wyliam permitiu que Ravena levasse o livro de Trigon com a promessa de devolvê-lo e disse que ela poderia voltar quando quisesse.
+- Depois que Ravena saiu, Wyliam descarregou a pressão da Fera destruindo equipamentos e bonecos de treino, sem dirigir violência contra pessoas.
+- Alguns dias depois, Ravena voltou à mansão com o livro. Ela já havia conseguido o que buscava no volume e queria entender por que a casa havia reduzido tão rapidamente a influência de Trigon sobre ela.
+- Ravena confirmou que as runas funcionam como uma rede de dissipação/redistribuição: pressão mágica, influência externa ou carga emocional é dividida entre várias marcas até se tornar pequena o bastante para desaparecer.
+- Surgiu a hipótese de ligar Ravena remotamente à rede já existente da mansão em vez de reproduzir toda a estrutura fora da casa. Essa solução pode exigir vínculo, adaptação e manutenção.
+- Wyliam ofereceu a Ravena, de forma impulsiva, a possibilidade de morar na mansão ou até receber a casa; ela reconheceu que a proposta foi extremamente rápida, mas não descartou o argumento prático do vínculo.
+- Ravena estudou um livro de couro de taumaturgia da biblioteca. Wyliam forneceu correções e dicas específicas demais para alguém que apenas “leu algumas vezes”, aumentando a suspeita de que ele conhece a estrutura por experiência direta.
+- Ravena conseguiu forçar uma das runas ocultas da parede a se manifestar. A marca apareceu em vermelho profundo e parece ter sido feita com sangue.
+- A biblioteca possui vários romances de vampiros escritos por Wyliam sob o pseudônimo `Drácula`. Ravena agora sabe que ele é o autor e que parte de sua fortuna vem dessas publicações.
+- Wyliam mostrou a Ravena tinta vermelha usada em manuscritos, vendida como contendo sangue de vampiro do clã Tremere. Ele afirmou ter comprado vários frascos a preço de custo dois anos antes.
+- Uma runa desenhada com essa tinta reagiu magicamente.
+- Para testar se o efeito vinha apenas de sangue, Wyliam ofereceu o próprio sangue. Quatro gotas foram coletadas num copo; Ravena usou parte delas para desenhar a mesma runa.
+- A runa feita com o sangue de Wyliam reagiu de forma muito mais forte, rápida e eficiente que a feita com a tinta. Ravena concluiu que o sangue dele não parece humano comum, mas reconheceu que ainda falta um controle usando sangue humano comum para separar as hipóteses.
+- Ravena ainda não confirmou que Wyliam é vampiro. Ela, porém, agora possui um conjunto crescente de pistas: hábitos noturnos, aversão à luz, conhecimento anormal de magia de sangue, runas antigas de sangue na casa, autoria de romances de vampiro, tinta supostamente Tremere e sangue próprio com reação mágica incomum.
+- Situação exata para retomada: **Ravena e Wyliam estão na biblioteca, diante das runas de teste. A runa feita com o sangue de Wyliam reagiu de forma anormal; Ravena quer comparar com sangue humano comum. Wyliam brincou que estava ofendido por seu sangue não ser considerado “comum”.**
