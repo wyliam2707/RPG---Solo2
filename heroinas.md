@@ -70,6 +70,16 @@
 - Isso não elimina autonomia, consentimento ou controle do jogador. Qualquer mudança relevante de atitude de Ravena ou pressão da Fera cria novo ponto de decisão e devolve o controle a Wyliam.
 - A intensificação não significa que uma cena precise se tornar sexual; ela pode resultar em confronto, afastamento, contenção, aproximação, humor tenso ou intimidade, conforme o contexto e as escolhas reais dos dois.
 
+### Reciprocidade e má decisão compartilhada
+
+- A tensão entre Ravena e Wyliam não precisa funcionar como se apenas um deles perdesse o controle e o outro permanecesse perfeitamente racional.
+- Wyliam pode perceber com clareza desejo, intenção e aproximação em Ravena. A Fera pode responder a esses sinais e tornar o autocontrole dele mais difícil.
+- Isso não significa inconsciência, transe ou perda completa de agência. Wyliam continua consciente do que está fazendo, mas pode escolher ceder ao instinto porque também deseja Ravena e encontra dificuldade real em resistir a ela.
+- Da mesma forma, Ravena continua consciente e responsável pelas próprias escolhas, mesmo quando está emocionalmente intensa ou impulsiva.
+- Algumas aproximações podem, portanto, ser "decisões ruins" dos dois lados: recíprocas, desejadas e impulsivas, sem que um esteja manipulando o outro.
+- A Fera não autoriza o narrador a decidir por Wyliam. Quando o instinto dele se intensificar a ponto de alterar sua decisão, o narrador descreve a pressão e devolve o controle ao jogador.
+- A narrativa deve distinguir desejo recíproco de compulsão. Se houver dúvida real sobre vontade ou consentimento de qualquer um dos dois, a cena não avança automaticamente.
+
 ### Primeiro grande ciclo possível
 
 - Em uma crise posterior, quando Trigon levar Ravena perto do limite, ela pode decidir ir até a mansão para procurar o item que acredita poder ajudá-la.
