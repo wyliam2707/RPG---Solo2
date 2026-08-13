@@ -6,17 +6,23 @@
 - Natureza real: vampiro com cerca de um século de existência.
 - Clã: Tremere.
 - O vampirismo é segredo absoluto no início da campanha.
+- Ninguém ligado publicamente às empresas, hospitais, laboratórios ou demais negócios sabe que existe um vampiro por trás da estrutura.
 - A descoberta desse segredo deve acontecer apenas por situação, investigação muito competente, percepção sobrenatural coerente ou exposição direta.
 - Wyliam pode ser o último vampiro ainda vivo, mas isso não é uma certeza conhecida por ele no início. A existência ou não de outros vampiros deve permanecer como mistério do cenário até que fatos da narrativa confirmem algo.
 
 ## Identidade pública e patrimônio
 
 - A riqueza de Wyliam possui explicação legal e aparentemente legítima.
-- Ele controla, direta ou indiretamente, uma rede de hospitais, laboratórios, clínicas, empresas de pesquisa médica e negócios relacionados.
-- A estrutura empresarial usa brechas legais, holdings, fundos, heranças, representantes e outras ferramentas legítimas ou juridicamente defensáveis para explicar patrimônio, continuidade dos negócios e sua posição financeira sem revelar sua verdadeira idade.
-- Essa rede também lhe dá acesso institucional a sangue humano de forma discreta, reduzindo ou eliminando a necessidade de caçar pessoas para se alimentar.
-- O sangue é obtido por vias médicas e logísticas que possam ser justificadas dentro da estrutura das empresas, sem deixar uma trilha óbvia que revele vampirismo.
-- A rede médica também combina com a identidade Tremere de Wyliam: estudo, pesquisa, conhecimento e interesse profundo por sangue fazem parte natural de sua forma de existir.
+- Ele não aparece necessariamente como proprietário direto de toda a rede.
+- Seu patrimônio e influência são distribuídos por ações, participações, holdings, fundos, empresas, representantes, empregados de confiança, aliados, favores antigos e pessoas que possuem dívidas de vida ou lealdades profundas com ele.
+- Hospitais, laboratórios, clínicas, empresas de pesquisa médica e negócios relacionados fazem parte dessa teia de influência sem conhecerem sua verdadeira natureza.
+- A estrutura serve justamente para criar distância entre Wyliam e a origem dos recursos que utiliza.
+- Funcionários comuns veem rotinas administrativas, médicas e empresariais normais; não sabem que parte da logística acaba beneficiando Wyliam pessoalmente.
+- O acesso a sangue ocorre de forma indireta, discreta e compartimentalizada, de modo que nenhuma pessoa comum precise saber o motivo real do pedido, destino final ou identidade sobrenatural do beneficiário.
+- O sistema pode usar excedentes, descarte autorizado, transferências internas, estoques, pesquisa, logística, favores e outras brechas plausíveis da estrutura médica e empresarial, sempre mantendo o segredo absoluto.
+- O objetivo principal dessa rede é permitir que Wyliam se alimente sem precisar caçar pessoas e sem criar uma conexão óbvia entre ele, hospitais e sangue.
+- A continuidade de sua riqueza ao longo das décadas também é protegida por mudanças societárias, heranças, procuradores, representantes e estruturas jurídicas que escondem sua idade real.
+- A rede médica combina com a identidade Tremere de Wyliam: estudo, pesquisa, conhecimento e interesse profundo por sangue fazem parte natural de sua forma de existir.
 
 ## Desvantagens e traços
 
