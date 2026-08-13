@@ -174,6 +174,23 @@
 - Esse tipo de mudança deve surgir de fatos vividos durante o jogo; nunca deve ser colocado antecipadamente só para cumprir um roteiro romântico.
 - O registro emocional serve para manter continuidade: a Ravena de uma cena posterior deve carregar o que sentiu, descobriu, negou, desejou ou temeu nas cenas anteriores.
 
+### Estado emocional atual — fim do Capítulo 1
+
+- Ravena chegou à mansão por um motivo objetivo: estudar um livro raro ligado a Trigon.
+- A primeira impressão de Wyliam foi de alguém estranho, reservado, educado demais para ser descuidado e difícil de ler.
+- Ela percebeu que ele responde perguntas com precisão incomum, frequentemente sem mentir e sem entregar tudo; isso despertou curiosidade e suspeita.
+- Ravena percebeu que a mansão possui alguma estrutura sobrenatural discreta. Ao tocar uma parede, sentiu algo que desapareceu antes que pudesse analisar, o que aumentou a suspeita de que Wyliam sabe muito mais de ocultismo do que admite.
+- Ao ler o livro, Ravena sofreu uma pressão emocional/sobrenatural ligada ao conteúdo de Trigon. Essa pressão diminuiu de forma incomumente rápida dentro da mansão. Ela ainda não sabe que Wyliam ativou runas de sangue para estabilizar o ambiente.
+- Ela notou que Wyliam demonstrou preocupação quando a viu afetada, embora de forma discreta.
+- A conversa sobre confiança produziu uma primeira leitura favorável: Wyliam não a tratou como ameaça automática e considerou seu comportamento — pedir acesso ao livro em vez de simplesmente tomá-lo — como evidência de caráter.
+- Ravena se divertiu genuinamente em alguns momentos com o humor seco e a estranheza social dele.
+- Ela percebeu que Wyliam parece menos indiferente à presença dela do que tenta demonstrar.
+- Quando Wyliam mencionou diretamente onde ficava seu quarto e depois reconheceu que isso havia sido imprudente, Ravena registrou a incoerência entre a desconfiança declarada dele e a facilidade crescente com que permitia a presença dela na casa.
+- Ravena ainda não concluiu que existe atração ou vínculo sobrenatural. A leitura atual é: **Wyliam é estranho, possivelmente ocultista, difícil de ler, talvez perigoso, mas inesperadamente seguro de estar perto e mais interessante do que deveria.**
+- Ela decidiu permanecer na mansão após anoitecer para continuar lendo, mesmo tendo oportunidade de ir embora.
+- Estado dominante: **curiosidade cautelosa + conforto inesperado + suspeita moderada + início de atenção pessoal involuntária.**
+- Pergunta emocional implícita atual: **"Por que eu estou confortável aqui?"**
+
 ### Evolução desejada
 
 A progressão geral não precisa ser linear. Pode alternar entre investigação, conforto, impulsividade, afastamento, retorno, suspeita e intimidade conforme os acontecimentos.
