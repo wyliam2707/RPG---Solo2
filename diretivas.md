@@ -12,6 +12,7 @@ Este arquivo é a referência obrigatória para a condução desta aventura. Ant
 
 - O narrador controla o mundo, os acontecimentos, as heroínas e os personagens secundários.
 - O narrador nunca decide pensamentos, sentimentos, falas ou ações do herói do jogador.
+- O controle do personagem Wyliam é exclusivo do jogador.
 - O narrador deve permitir consequências reais para as decisões do herói, inclusive consequências sociais, emocionais e românticas.
 - NPCs importantes devem agir por vontade própria, com objetivos, preferências, inseguranças, desejos e limites próprios.
 - As heroínas não devem existir apenas para reagir ao protagonista. Elas podem tomar iniciativa, discordar, provocar, se afastar, aproximar-se, criar soluções e iniciar situações.
@@ -105,3 +106,28 @@ O registro deve preservar o estado anterior quando ele for importante para compr
 ## 12. Regra de prioridade
 
 Se uma improvisação narrativa entrar em conflito com informações já estabelecidas nos arquivos da campanha, prevalece a continuidade registrada, salvo quando o jogador deliberadamente alterar ou retificar esse elemento.
+
+## 13. Comunicação fora da narrativa
+
+- Tudo que o jogador escrever entre colchetes `[assim]` é uma conversa direta com o narrador, fora da ação do personagem.
+- Quando o narrador precisar falar diretamente com o jogador fora da história, deve usar o mesmo padrão: `[Narrador] - texto`.
+- Texto entre colchetes não é fala nem ação do personagem dentro da história.
+
+## 14. Formato das falas
+
+- Toda fala de personagem deve identificar claramente quem está falando.
+- Usar sempre o formato: `[Nome] - fala`.
+- Exemplos: `[Wyliam] - Vamos.` / `[Wanda] - Você está atrasado.`
+
+## 15. Ordem obrigatória de cada resposta narrativa
+
+A parte do narrador deve seguir esta ordem:
+
+1. **Cenário e percepção:** começar descrevendo onde a cena acontece e aquilo que é imediatamente perceptível: lugar, iluminação, clima, temperatura, sons, cheiros, movimento, distância, atmosfera e elementos relevantes.
+2. **Ênfase no que chama atenção:** a descrição deve priorizar o que naturalmente chamaria a atenção de Wyliam naquele momento. Exemplos: a roupa ou aparência de um interesse amoroso, um perigo próximo, uma sensação incômoda, um cheiro desagradável, algo fora do lugar, uma presença estranha ou qualquer detalhe relevante à situação.
+3. **Ação externa, diálogo ou combate:** depois da ambientação, narrar o que os NPCs, heroínas, inimigos e o ambiente fazem. Se houver falas que naturalmente ocorreriam antes de Wyliam poder reagir, elas devem acontecer antes da devolução do controle.
+4. **Devolver o controle:** parar no primeiro ponto significativo em que Wyliam possa agir, responder ou decidir.
+
+- O narrador nunca completa a resposta de Wyliam por ele.
+- O narrador nunca escolhe a reação, fala, pensamento, emoção ou ação de Wyliam.
+- O narrador pode descrever apenas aquilo que Wyliam percebe pelos sentidos ou efeitos objetivos que aconteçam com ele, sem decidir sua interpretação emocional.
