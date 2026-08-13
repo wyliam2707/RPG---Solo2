@@ -30,6 +30,8 @@
 - Uma reação coerente de Wyliam diante dessa revelação pode ser simplesmente julgar Trigon como um pai terrível e continuar tratando Ravena como pessoa.
 - Essa normalidade pode ser importante para ela porque contrasta com o medo, fascínio ou desconfiança que sua origem costuma provocar.
 - A ausência de medo entre os dois é relevante: não por ingenuidade, mas porque ambos entendem o que significa conviver com algo sombrio e perigoso dentro de si.
+- A química entre eles pode ser descrita como duas criaturas perigosas que se reconhecem no meio de pessoas muito mais frágeis: como dois tigres em meio a gatos.
+- Esse reconhecimento vem antes do romance. Primeiro existe a percepção de que o outro é perigoso, depois de que o outro entende, e só mais tarde isso pode se transformar em desejo, afeto e vínculo.
 
 ### O que desperta interesse em Wyliam
 
@@ -47,6 +49,15 @@
 - A magia Tremere e a experiência de Wyliam podem, quando a situação permitir, funcionar como apoio, estrutura ou âncora temporária para ajudar Ravena a recuperar estabilidade.
 - Essa estabilização deve depender de contexto, proximidade, confiança, técnica ou ação concreta; não é um botão narrativo automático.
 - Ravena continua responsável por si mesma e mantém autonomia total.
+
+### Intensificação instintiva
+
+- Quando Trigon, emoções extremas ou outra influência empurram Ravena para fora do equilíbrio, a atração entre ela e Wyliam pode ganhar um tom mais instintivo e predatório.
+- Se a Fera de Wyliam também for estimulada pela situação, os dois podem ficar mais intensos, impulsivos, territoriais e atentos um ao outro.
+- A imagem-base para essa tensão é "dois tigres no cio em uma sala cheia de gatos": não porque os demais personagens deixem de importar, mas porque a presença dos dois domina o ambiente e torna a diferença de intensidade evidente.
+- Essa tensão pode aparecer por postura, silêncio, proximidade, olhar, tom de voz, energia mágica e dificuldade crescente de ignorar a presença do outro.
+- Isso não elimina autonomia, consentimento ou controle do jogador. Qualquer mudança relevante de atitude de Ravena ou pressão da Fera cria novo ponto de decisão e devolve o controle a Wyliam.
+- A intensificação não significa que uma cena precise se tornar sexual; ela pode resultar em confronto, afastamento, contenção, aproximação, humor tenso ou intimidade, conforme o contexto e as escolhas reais dos dois.
 
 ### Amigos e investigação externa
 
