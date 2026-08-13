@@ -44,6 +44,17 @@
 - A química entre eles pode ser descrita como duas criaturas perigosas que se reconhecem no meio de pessoas muito mais frágeis: como dois tigres em meio a gatos.
 - Esse reconhecimento vem antes do romance. Primeiro existe a percepção de que o outro é perigoso, depois de que o outro entende, e só mais tarde isso pode se transformar em desejo, afeto e vínculo.
 
+### Núcleo instintivo do romance
+
+- O romance pode começar menos como uma sequência de bons encontros e mais como duas pessoas que, depois de realmente se perceberem, não conseguem voltar a fingir que a outra é irrelevante.
+- A presença de um pode evocar no outro algo primitivo, intenso e cuidadosamente reprimido: em Ravena, emoções e impulsos que ela normalmente mantém sob controle; em Wyliam, a Fera, a fome e o instinto predatório.
+- Isso não significa compulsão sobrenatural nem destino romântico. É reconhecimento mútuo, atração e resposta instintiva entre dois seres acostumados a conter partes perigosas de si mesmos.
+- Eles podem tentar manter distância, racionalizar, investigar ou ignorar o que aconteceu, mas o simples fato de já terem se reconhecido torna a indiferença cada vez menos convincente.
+- A imagem central é a de dois seres que, depois de se verem de verdade, não conseguem mais fingir que não se viram.
+- Por isso, eles podem acabar se procurando quase por instinto, mesmo quando a razão de ambos diz que a aproximação vai complicar tudo.
+- A atração inicial pode ser muito física, territorial e primitiva; carinho, confiança e vínculo emocional podem surgir depois, se a história levar nessa direção.
+- Nenhum dos dois precisa considerar essas aproximações uma boa ideia para escolhê-las mesmo assim.
+
 ### O que desperta interesse em Wyliam
 
 - Ravena chama a atenção de Wyliam por não ser frágil nem facilmente destruída.
@@ -96,7 +107,7 @@
 ### Segundo retorno possível
 
 - Depois de alguns dias afastada, Ravena pode voltar com a intenção sincera de se desculpar com Wyliam, ainda acreditando que ele é apenas um mortal incomum e que ela talvez tenha ido longe demais na noite anterior.
-- Durante essa conversa, ela pode captar pela leitura emocional que Wyliam não está traumatizado nem arrependido; pelo contrário, a impressão de que ele gostou muito da experiência pode atravessar suas defesas antes que ela esteja preparada para lidar com isso.
+- Durante essa conversa, ela pode captar pela leitura emocional que Wyliam não está traumatizado nem arrependido; pelo contrário, a impressão de que ele gostou muito da experiência pode atravessar suas defesas antes que ela esteja preparada para lidarar com isso.
 - Essa percepção pode desestabilizá-la de novo, não por controle externo, mas porque confirma que a aproximação foi recíproca e porque ela própria continua atraída.
 - Sem perceber de imediato, Ravena pode diminuir a distância física, observar Wyliam por tempo demais, reparar em detalhes do rosto e do corpo e deixar a conversa formal virar tensão íntima.
 - Wyliam pode reagir a essa aproximação de maneira coerente, e Ravena pode perceber essa reação rápido demais para continuar fingindo que a visita é apenas um pedido de desculpas.
