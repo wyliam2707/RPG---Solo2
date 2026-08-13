@@ -38,6 +38,18 @@ Apesar do isolamento, não é incomum que pessoas cheguem à propriedade procura
 
 Isso permite que boa parte da campanha se desenvolva dentro da mansão sem tornar o cenário parado. A casa funciona como residência, refúgio, local de estudo e ponto natural de chegada de novas situações e personagens.
 
+## Foco do one-shot
+
+Este one-shot não tem como eixo invasões alienígenas, guerras cósmicas ou ameaças globais. O sobrenatural existe, mas serve principalmente como parte da vida privada dos personagens.
+
+O foco é a relação entre Wyliam e Ravena: atração, intimidade, impulsos, retornos, segredos, convivência e as consequências duradouras de escolhas feitas por ambos.
+
+A história pode evoluir para uma forma de família estranha, improvável ou pouco convencional surgida dessas escolhas, caso os acontecimentos levem naturalmente nessa direção. Isso não é destino obrigatório nem final pré-programado.
+
+Conflitos importantes podem ser domésticos, emocionais, relacionais ou ligados à necessidade de reorganizar a vida: quem fica, quem vai embora, quem volta, quanto tempo permanece, o que precisa ser revelado, como conciliar duas vidas separadas e o que muda quando uma consequência já não pode ser simplesmente deixada para trás por alguns dias.
+
+A mansão pode deixar de ser apenas a casa de Wyliam e, dependendo das escolhas reais da história, tornar-se também um lugar de retorno, convivência ou lar compartilhado sem que isso obrigue Ravena a abandonar sua própria vida.
+
 ## Uso do cenário
 
 A mansão será o principal ponto de convivência da história e pode receber visitas, conflitos, aproximações, conversas, situações íntimas e acontecimentos inesperados.
