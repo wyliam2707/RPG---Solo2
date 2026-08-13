@@ -7,14 +7,15 @@
 - Ravena é o único interesse romântico principal da campanha.
 - A relação deve evoluir por convivência, confiança, observação e acontecimentos concretos; não existe paixão automática nem destino romântico pré-programado.
 - Ravena deve permanecer reconhecivelmente Ravena em personalidade, inteligência, poderes, limites emocionais e forma de agir.
+- Nesta campanha, Ravena é adulta.
 
 ### Aproximação inicial
 
-- Ravena se aproxima de Wyliam primeiro por investigação e desconfiança.
-- Algo na mansão, na presença dele, na magia de sangue ou em outro fenômeno sobrenatural chama sua atenção.
-- Ela pode permanecer por perto inicialmente para observar, entender e avaliar se Wyliam representa risco.
-- A relação não precisa começar lenta nem crescer de forma linear. Pode haver uma passagem brusca de investigação racional para uma aproximação intensa se o estado emocional de Ravena, a influência de Trigon, a situação e a química entre os dois justificarem isso.
-- Um momento impulsivo não significa que Ravena já entendeu o que sente. Pelo contrário: pode aumentar sua confusão e sua necessidade de investigar Wyliam e a própria reação.
+- A aproximação pode começar de forma totalmente racional: Ravena descobre que um jovem rico, recluso e pouco conhecido possui um livro raro relacionado a Trigon.
+- Esse livro é motivo suficiente para ela procurar Wyliam e ir até a mansão pela primeira vez.
+- A casa quase vazia, a atmosfera estranha e a presença incomum de Wyliam chamam sua atenção, mas não revelam automaticamente sua natureza vampírica.
+- Ravena consegue acesso ao livro, e Wyliam apenas pede que ela o devolva quando terminar.
+- Depois de sair, ela pode continuar lembrando não apenas da aura estranha da casa e de Wyliam, mas também de detalhes pessoais dele — rosto, voz, postura e aparência física — e se incomodar consigo mesma por notar coisas que, em tese, não tinham relação com a investigação.
 
 ### Biblioteca e rotina
 
@@ -23,6 +24,14 @@
 - Ravena pode usar a biblioteca para pesquisa própria, investigação ou simples leitura.
 - Com o tempo, permanecer na mansão pode deixar de exigir uma justificativa importante. Ela pode aceitar um café, ficar lendo, pesquisar em silêncio ou simplesmente permanecer ali porque se sente confortável.
 - Pequenos hábitos cotidianos, como café, leitura compartilhada, silêncio confortável e troca de livros, devem ter peso real no desenvolvimento da relação.
+
+### Segundo motivo para voltar
+
+- Ao devolver o livro, Ravena pode perceber outro objeto, texto ou artefato na mansão que talvez seja útil para protegê-la, estabilizá-la ou reduzir a influência de Trigon.
+- Ravena não deve simplesmente roubá-lo se isso contrariar sua personalidade. Ela pode querer confirmar primeiro o que o item realmente é, como funciona e por que Wyliam o possui.
+- Esse novo interesse fornece uma justificativa racional para voltar à mansão.
+- Ao mesmo tempo, pode existir uma motivação que ela não admite nem para si: ela quer vê-lo outra vez.
+- A história deve permitir que Ravena use investigação real para racionalizar retornos que também possuem componente emocional crescente.
 
 ### Afinidade entre os dois
 
@@ -60,6 +69,19 @@
 - Isso não elimina autonomia, consentimento ou controle do jogador. Qualquer mudança relevante de atitude de Ravena ou pressão da Fera cria novo ponto de decisão e devolve o controle a Wyliam.
 - A intensificação não significa que uma cena precise se tornar sexual; ela pode resultar em confronto, afastamento, contenção, aproximação, humor tenso ou intimidade, conforme o contexto e as escolhas reais dos dois.
 
+### Primeiro grande ciclo possível
+
+- Em uma crise posterior, quando Trigon levar Ravena perto do limite, ela pode decidir ir até a mansão para procurar o item que acredita poder ajudá-la.
+- Ao chegar, porém, a simples percepção da presença de Wyliam pode deslocar sua atenção de forma abrupta.
+- Ravena pode abandonar temporariamente o plano original e procurá-lo com uma determinação muito mais impulsiva e intensa do que pretendia.
+- Essa mudança deve ser tratada como escolha dela sob forte pressão emocional, não como controle mental exercido por Wyliam.
+- Se a cena caminhar para intimidade, ela deve permanecer adulta, consensual e não gráfica. O foco pode ficar em tensão, escolha, proximidade, consequência e no estado emocional dos dois.
+- Na manhã seguinte, Ravena pode acordar percebendo sinais claros de que tomou decisões íntimas e impulsivas durante a noite — por exemplo, estar sem roupa, notar marcas superficiais ou encontrar o quarto desorganizado — sem necessidade de descrição sexual explícita.
+- O choque principal para Ravena é psicológico: ela foi até a mansão por causa de um objeto e, em algum momento, mudou completamente de prioridade.
+- Isso pode gerar a pergunta central: como uma decisão racional virou tão rápido uma "ideia muito ruim"?
+- Ravena pode então desaparecer por dois ou três dias, envergonhada, desconfiada de si mesma e tentando descobrir se houve influência mental, maldição, magia, Trigon ou outra causa externa.
+- A investigação pode falhar em encontrar compulsão porque, no fim, a escolha foi realmente dela.
+
 ### Ciclo de aproximação e recuo
 
 - Ravena tende a acumular muito autocontrole. Ela guarda emoções, impulsos e conflitos internos até o limite.
@@ -95,6 +117,6 @@ A progressão geral não precisa ser linear. Pode alternar entre investigação,
 
 Uma possibilidade coerente é:
 
-investigação → observação → aproximação brusca → recuo de dois ou três dias → retorno e investigação do próprio comportamento → nova aproximação → repetição do ciclo → reconhecimento de que o retorno é escolha → vínculo romântico possível.
+livro sobre Trigon → primeira visita → aura e curiosidade → devolução do livro → descoberta de outro item → nova desculpa racional para voltar → crise com Trigon → retorno para buscar o item → mudança abrupta de prioridade → aproximação intensa → manhã seguinte de choque e vergonha → desaparecimento por dois ou três dias → investigação da própria reação → retorno.
 
-Essa progressão deve sempre ser ajustada pelos acontecimentos reais da campanha.
+Essa sequência é apenas uma possibilidade narrativa. Cada passo deve continuar sujeito às escolhas reais de Ravena, às ações de Wyliam e à regra de interromper quando surgir nova informação relevante.
